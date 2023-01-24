@@ -1,4 +1,4 @@
-# Final Project Tomas Hornicke CS622
+# Final Project Tomas Hornicek CS622
 
 
 My final project takes a keyword and downloades all the video based on the keyword from instagram and youtube. It then splits them into different scenes.
@@ -7,12 +7,12 @@ Note on presentation video: The reason why I couldn't split the scenes for the y
 
 # Required libraries
 
-tkinter
-os
-instaloader
-selenium
-webdriver
-scenedetect
+- tkinter
+- os
+- instaloader
+- selenium
+- webdriver
+- scenedetect
 
 # Structure
 
